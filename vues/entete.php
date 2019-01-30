@@ -15,8 +15,8 @@
 		<link rel="stylesheet" href="./css/main.css" type="text/css" media="screen">
 		<base href="<?php echo BASEURL; ?>">
 		<!--<script src="./js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>-->
-		<script src="./js/plugins.js"></script>
-		<script src="./js/main.js"></script>
+		<script src="<?php echo BASEURL; ?>/js/plugins.js"></script>
+		<script src="<?php echo BASEURL; ?>/js/main.js"></script>
 	</head>
 	<body >
 		<header>
